@@ -187,9 +187,9 @@ db.answers.insertMany([
         t_id: 't_101',
         s_id: 101,
         sol: [
-        'opt_1' ,
-        'opt_3',
-'opt_2' 
+        {ans:'opt_1'} ,
+        {ans:'opt_3'},
+    {ans:'opt_2'} 
         ]
     },
     {
